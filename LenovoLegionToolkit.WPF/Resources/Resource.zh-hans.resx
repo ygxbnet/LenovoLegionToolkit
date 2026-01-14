@@ -337,16 +337,16 @@
     <value>电池充放电功率</value>
   </data>
   <data name="BatteryPage_MinDischargeRate_Message" xml:space="preserve">
-    <value>Minimum rate at which battery is charged (+), or discharged (-).</value>
+    <value>电池在充电(+)或放电(-)时的最小功率。</value>
   </data>
   <data name="BatteryPage_MinDischargeRate_Title" xml:space="preserve">
-    <value>Minimum discharge rate</value>
+    <value>最小放电功率</value>
   </data>
   <data name="BatteryPage_MaxDischargeRate_Message" xml:space="preserve">
-    <value>Maximum rate at which battery is charged (+), or discharged (-).</value>
+    <value>电池在充电(+)或放电(-)时的最大功率。</value>
   </data>
   <data name="BatteryPage_MaxDischargeRate_Title" xml:space="preserve">
-    <value>Maximum discharge rate</value>
+    <value>最大放电功率</value>
   </data>
   <data name="BatteryPage_EstimatedBatteryLifeRemaining" xml:space="preserve">
     <value>预估剩余时间：{0}</value>
@@ -367,10 +367,10 @@
     <value>满电容量</value>
   </data>
   <data name="BatteryPage_BatteryHealth_Message" xml:space="preserve">
-    <value>Battery maximum charge capacity.</value>
+    <value>电池最大充电容量。</value>
   </data>
   <data name="BatteryPage_BatteryHealth_Title" xml:space="preserve">
-    <value>Battery health</value>
+    <value>电池健康状态</value>
   </data>
   <data name="BatteryPage_LowWattageChargerConnected" xml:space="preserve">
     <value>已插入较低功率电源适配器</value>
@@ -1694,10 +1694,10 @@
     <value>电池充放电功率</value>
   </data>
   <data name="StatusTrayPopup_MinDischargeRate" xml:space="preserve">
-    <value>Min discharge rate</value>
+    <value>最小放电功率</value>
   </data>
   <data name="StatusTrayPopup_MaxDischargeRate" xml:space="preserve">
-    <value>Max discharge rate</value>
+    <value>最大放电功率</value>
   </data>
   <data name="StatusTrayPopup_UpdateAvailable" xml:space="preserve">
     <value>新版本可用！</value>
