@@ -1601,10 +1601,10 @@
     <value>应用数据文件夹</value>
   </data>
   <data name="AboutPage_Data" xml:space="preserve">
-    <value>Data</value>
+    <value>数据文件</value>
   </data>
   <data name="AboutPage_Temp" xml:space="preserve">
-    <value>Temp</value>
+    <value>缓存文件</value>
   </data>
   <data name="SettingsPage_SynchronizeBrightnessToAllPowerPlans_Title" xml:space="preserve">
     <value>固定显示亮度</value>
