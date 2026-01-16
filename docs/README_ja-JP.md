@@ -1,4 +1,4 @@
-<img height="128" align="left" src="assets/logo.png" alt="Logo">
+<img height="128" align="left" src="../assets/logo.png" alt="Logo">
 
 # レノボ・レギオン・ツールキット
 
@@ -10,7 +10,7 @@
 ---
 
 #### 他の言語バージョンのこのREADMEファイル：
-* [英語版のREADME](README.md)
+* [英語版のREADME](../README.md)
 * [簡体字中国語版のREADME](README_zh-hans.md)
 
 ---
@@ -23,7 +23,7 @@
 
 _レギオンシリーズのDiscordに参加してください：https://discord.com/invite/legionseries!_
 
-<img src="assets/screenshot_main.png" width="700" />
+<img src="../assets/screenshot_main.png" width="700" />
 
 &nbsp;
 
