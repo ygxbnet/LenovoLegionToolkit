@@ -1,6 +1,6 @@
 <img height="128" align="left" src="assets/logo.png" alt="Logo">
 
-# Lenovo Legion Toolkit
+# Lenovo Legion Toolkit 拯救者工具箱
 
 [![Build](https://github.com/ygxbnet/LenovoLegionToolkit/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/ygxbnet/LenovoLegionToolkit/actions/workflows/build.yml)
 [![Crowdin](https://badges.crowdin.net/lenovo-legion-toolkit/localized.svg)](https://crowdin.com/project/lenovo-legion-toolkit)
