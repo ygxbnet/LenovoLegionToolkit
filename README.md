@@ -58,7 +58,7 @@ Lenovo Legion Toolkit（拯救者工具箱）是专为**联想拯救者**系列�
 
 ## 感谢
 
-- @BartoszCichecki（项目原开发者）
+[@BartoszCichecki](https://github.com/BartoszCichecki)（项目原开发者）
 
-- 社区诸位开发者
+社区诸位开发者
 
