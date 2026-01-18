@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="100"  src="assets/logo.png" alt="Logo">
+<img height="120"  src="assets/logo.png" alt="Logo">
 
 # Lenovo Legion Toolkit 拯救者工具箱
 
