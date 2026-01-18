@@ -26,7 +26,7 @@ Lenovo Legion Toolkit（拯救者工具箱）是专为**联想拯救者**系列�
 
 ## 使用教程
 
-1. 在这里下载最新版安装包：[LenovoLegionToolkitSetup.exe](https://github.com/ygxbnet/LenovoLegionToolkit/releases/latest)
+1. 在这里下载最新版安装包：[最新版安装包](https://github.com/ygxbnet/LenovoLegionToolkit/releases/latest)
 
 2. 双击安装包安装
 
