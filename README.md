@@ -10,12 +10,9 @@
 
 </div>
 
-#### 原 README 文档:
-* [English](docs/README.md)
-* [简体中文](docs/README_zh-hans.md)
-* [日本語版](docs/README_ja-JP.md)
-
 ---
+
+> #### 原 README 文档：[English](docs/README.md) | [简体中文](docs/README_zh-hans.md) | [日本語版](docs/README_ja-JP.md)
 
 
 ## 介绍
