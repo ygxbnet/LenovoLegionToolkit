@@ -1,11 +1,14 @@
-<img height="128" align="left" src="assets/logo.png" alt="Logo">
+<div align="center">
+
+<img height="80"  src="assets/logo.png" alt="Logo">
 
 # Lenovo Legion Toolkit 拯救者工具箱
 
 [![Build](https://github.com/ygxbnet/LenovoLegionToolkit/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/ygxbnet/LenovoLegionToolkit/actions/workflows/build.yml)
 [![Crowdin](https://badges.crowdin.net/lenovo-legion-toolkit/localized.svg)](https://crowdin.com/project/lenovo-legion-toolkit)
+[![GitHub Release](https://img.shields.io/github/v/release/ygxbnet/LenovoLegionToolkit?label=release&logo=github)](https://github.com/ygxbnet/LenovoLegionToolkit/releases)
 
----
+</div>
 
 #### 原 README 文档:
 * [English](docs/README.md)
@@ -28,7 +31,7 @@ Lenovo Legion Toolkit（拯救者工具箱）是专为**联想拯救者**系列�
 
 1. 在这里下载最新版安装包：[最新版安装包](https://github.com/ygxbnet/LenovoLegionToolkit/releases/latest)
 
-2. 双击安装包安装
+2. 双击 `LenovoLegionToolkitSetup.exe` 安装包安装
 
 3. 安装完成后即可使用
 
