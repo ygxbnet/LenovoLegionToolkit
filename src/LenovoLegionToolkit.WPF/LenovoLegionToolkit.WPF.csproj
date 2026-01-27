@@ -6,7 +6,7 @@
 		<OutputType>WinExe</OutputType>
 		<ApplicationIcon>Assets/icon.ico</ApplicationIcon>
 		<AssemblyName>Lenovo Legion Toolkit</AssemblyName>
-		<Copyright>© 2024 Bartosz Cichecki</Copyright>
+		<Copyright>© 2026 YGXB_net</Copyright>
 		<FileVersion>0.0.1</FileVersion>
 		<Version>0.0.1</Version>
 		<Nullable>enable</Nullable>
@@ -53,12 +53,14 @@
 		<None Remove="Assets\default_exe.png" />
 		<None Remove="Assets\Donate\paypal_logo.png" />
 		<None Remove="Assets\Donate\paypal_qr.png" />
+		<None Remove="Assets\Donate\afdian-[未认证]YGXB_net.jpg" />
 	</ItemGroup>
 	<ItemGroup>
 		<Resource Include="Assets\default_exe.png" />
 		<Resource Include="Assets\icon.ico" />
 		<Resource Include="Assets\Donate\paypal_logo.png" />
 		<Resource Include="Assets\Donate\paypal_qr.png" />
+		<Resource Include="Assets\Donate\afdian-[未认证]YGXB_net.jpg" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Compile Update="Assets\AssetResources.Designer.cs">

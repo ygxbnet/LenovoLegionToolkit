@@ -12,7 +12,7 @@ public partial class DonatePage
 
     private void PayPalDonateButton_Click(object sender, RoutedEventArgs e)
     {
-        Constants.PayPalUri.Open();
+        Constants.DonateUri.Open();
         e.Handled = true;
     }
 }

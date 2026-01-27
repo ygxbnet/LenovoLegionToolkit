@@ -23,12 +23,41 @@
             HorizontalAlignment="Left"
             Focusable="True"
             FontSize="14"
+            Text="开发与维护联想拯救箱需要大量时间。如果你喜欢这个软件，你可以通过赞助来支持软件的开发
+            &#x0A;
+            &#x0A;点击下方的图片或扫描二维码赞助，帮作者晚餐加杯柠檬水
+            &#x0A;
+            &#x0A;万分感谢！"
+            TextAlignment="Justify"
+            TextWrapping="Wrap" />
+
+        <!-- <Border
+            Width="375"
+            Height="514"
+            BorderBrush="Gray"
+            HorizontalAlignment="Left"
+            BorderThickness="2"
+            CornerRadius="16"
+            Cursor="Hand"
+            MouseLeftButtonDown="PayPalDonateButton_Click"
+            MouseRightButtonDown="PayPalDonateButton_Click">
+            <Border.Background>
+                <ImageBrush ImageSource="/Assets/Donate/afdian-[未认证]YGXB_net.jpg" />
+            </Border.Background>
+        </Border>
+        
+        <TextBlock
+            MaxWidth="450"
+            Margin="0,0,0,24"
+            HorizontalAlignment="Left"
+            Focusable="True"
+            FontSize="14"
             Text="{x:Static resources:Resource.DonatePage_Message}"
             TextAlignment="Justify"
             TextWrapping="Wrap" />
 
         <StackPanel x:Name="_paypal" Margin="0,8,0,0">
-
+        
             <Border
                 Width="300"
                 HorizontalAlignment="Left"
@@ -53,7 +82,7 @@
                         Source="/Assets/Donate/paypal_logo.png" />
                 </StackPanel>
             </Border>
-
+        
             <Border
                 Width="300"
                 Margin="0,16,0,0"
@@ -63,8 +92,8 @@
                 RenderOptions.BitmapScalingMode="Fant">
                 <Image Margin="16" Source="/Assets/Donate/paypal_qr.png" />
             </Border>
-
-        </StackPanel>
+        
+        </StackPanel>-->
 
     </StackPanel>
 </wpfui:UiPage>
