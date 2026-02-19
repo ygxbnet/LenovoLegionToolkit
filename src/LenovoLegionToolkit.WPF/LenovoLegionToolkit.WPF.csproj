@@ -53,14 +53,14 @@
 		<None Remove="Assets\default_exe.png" />
 		<None Remove="Assets\Donate\paypal_logo.png" />
 		<None Remove="Assets\Donate\paypal_qr.png" />
-		<None Remove="Assets\Donate\afdian-[未认证]YGXB_net.jpg" />
+		<None Remove="Assets\Donate\afdian-YGXB_net.jpg" />
 	</ItemGroup>
 	<ItemGroup>
 		<Resource Include="Assets\default_exe.png" />
 		<Resource Include="Assets\icon.ico" />
 		<Resource Include="Assets\Donate\paypal_logo.png" />
 		<Resource Include="Assets\Donate\paypal_qr.png" />
-		<Resource Include="Assets\Donate\afdian-[未认证]YGXB_net.jpg" />
+		<Resource Include="Assets\Donate\afdian-YGXB_net.jpg" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Compile Update="Assets\AssetResources.Designer.cs">

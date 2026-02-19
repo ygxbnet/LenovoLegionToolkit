@@ -31,6 +31,21 @@
             TextAlignment="Justify"
             TextWrapping="Wrap" />
 
+        <Border
+            Width="375"
+            Height="514"
+            BorderBrush="Gray"
+            HorizontalAlignment="Left"
+            BorderThickness="2"
+            CornerRadius="16"
+            Cursor="Hand"
+            MouseLeftButtonDown="PayPalDonateButton_Click"
+            MouseRightButtonDown="PayPalDonateButton_Click">
+            <Border.Background>
+                <ImageBrush ImageSource="/Assets/Donate/afdian-YGXB_net.jpg" />
+            </Border.Background>
+        </Border>
+        
         <!-- <Border
             Width="375"
             Height="514"
