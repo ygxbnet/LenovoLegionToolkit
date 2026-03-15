@@ -1,3 +1,6 @@
+# 推荐：https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit
+
+
 <div align="center">
 
 <img height="120"  src="assets/logo.png" alt="Logo">
